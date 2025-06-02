@@ -14,8 +14,8 @@ Pasos:
 
 Funciones propuestas (asignadas por el ponente):
 - resta
-- multiplicación
-- división
+- multiplicación ✅​
+- división ✅​
 - potencia
 - raíz cuadrada
 - factorial
@@ -24,8 +24,8 @@ Funciones propuestas (asignadas por el ponente):
 - coseno
 - tangente
 - promedio
-- máximo
-- mínimo
+- máximo ✅​
+- mínimo ✅​
 - redondeo
 - logaritmo
 - exponencial
