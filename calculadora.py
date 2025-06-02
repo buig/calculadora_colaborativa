@@ -20,4 +20,4 @@ def maximo(a, b):
     return b
 
 def minimo (a, b):
-    maximo(b, a)
+    return maximo(b, a)
