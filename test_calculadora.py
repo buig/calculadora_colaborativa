@@ -1,5 +1,5 @@
 import unittest
-from calculadora import suma,resta, multiplica, divide  # se irán importando más
+from calculadora import suma,resta, multiplica, divide, maximo, minimo  # se irán importando más
 
 class TestCalculadora(unittest.TestCase):
     def test_suma(self):
@@ -15,3 +15,11 @@ class TestCalculadora(unittest.TestCase):
     def test_divide(self):
         self.assertEqual(divide(6, 3), 2)
         self.assertEqual(divide(5, 0), "No se puede dividir por cero")
+
+    def maximo(self):
+        self.assertEqual(max(5,2),5)
+        self.assertEqual(max(2,5),5)
+    
+    def minimo(self):
+        self.assertEqual(min(5,2),2)
+        self.assertEqual(min(2,5),2)

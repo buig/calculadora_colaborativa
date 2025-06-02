@@ -13,3 +13,11 @@ def multiplica(a,b):
 
 def divide(a, b):
     return a / b if b != 0 else "No se puede dividir por cero"
+
+def maximo(a, b):
+    if a > b:
+        return a
+    return b
+
+def minimo (a, b):
+    maximo(b, a)

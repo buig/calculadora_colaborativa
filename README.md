@@ -24,8 +24,8 @@ Funciones propuestas (asignadas por el ponente):
 - coseno
 - tangente
 - promedio
-- máximo
-- mínimo
+- máximo ✅​
+- mínimo ✅​
 - redondeo
 - logaritmo
 - exponencial
