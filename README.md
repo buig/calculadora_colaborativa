@@ -14,8 +14,8 @@ Pasos:
 
 Funciones propuestas (asignadas por el ponente):
 - resta
-- multiplicación
-- división
+- multiplicación ✅​
+- división ✅​
 - potencia
 - raíz cuadrada
 - factorial
